@@ -1,0 +1,4 @@
+Sources for YL-69 + YL-38 Soil Moisture Case Overhaul
+
+YL-69 Soil Moisture Sensor Cover (http://www.thingiverse.com/thing:2053238)
+SparkFun Soil Moisture Sensor Case (http://www.thingiverse.com/thing:1021970)
